@@ -1,3 +1,6 @@
+# In this practice I added a background
+# onto the previous practice
+
 import pygame
 from sys import exit
 

@@ -1,3 +1,8 @@
+# In this practice I added a moving snail
+# that will go from the right to the left side
+# in an infinite loop, this is an addition
+# to the previous practice
+
 import pygame
 from sys import exit
 
